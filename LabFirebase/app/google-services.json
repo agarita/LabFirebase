@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "435062944258",
+    "firebase_url": "https://river-acrobat-236016.firebaseio.com",
+    "project_id": "river-acrobat-236016",
+    "storage_bucket": "river-acrobat-236016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435062944258:android:bcfd7d34b98a47b5",
+        "android_client_info": {
+          "package_name": "com.example.labfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435062944258-fbus18p9kl1c4fr5ujsd8embs3s8nlgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCABElrZoTgFh_OtkRENiyupQPmrshW2As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435062944258-fbus18p9kl1c4fr5ujsd8embs3s8nlgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
